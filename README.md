@@ -1,7 +1,9 @@
 # Welcome to my profile!
 
 ###### My Socials.
-![Twitter URL](https://img.shields.io/twitter/url?label=%40BrotatoBoi&style=social&url=https%3A%2F%2Ftwitter.com%2FBrotatoBoi)
+![Twitter](https://img.shields.io/badge/@BrotatoBoi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![YouTube](https://img.shields.io/badge/@BrotatoBoi-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Reddit](https://img.shields.io/badge/@BrotatoBoi-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
 ###### Languages that I know and use.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
