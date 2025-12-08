@@ -2,10 +2,10 @@
 <table style="border-spacing: 20px 10px;">
     <tr>
       <td>
-        <img style="border-radius:10px;" src="https://github-readme-stats.vercel.app/api?username=brotatoboiv2&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+        <img style="border-radius:10px;" src="https://github-readme-stats-alpha-six-52.vercel.app/api?username=brotatoboiv2&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
       </td>
       <td>
-        <img style="border-radius:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brotatoboiv2&theme=tokyonight" alt="Top Languages" />
+        <img style="border-radius:10px;" src="https://github-readme-stats-alpha-six-52.vercel.app/api/top-langs/?username=brotatoboiv2&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
   </table>
