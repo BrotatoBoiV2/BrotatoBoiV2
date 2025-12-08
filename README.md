@@ -15,7 +15,7 @@
     <tr>
       <td>
         <a href="https://wakatime.com/@brotatoboi">
-          <img style="border-radius:10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=brotatoboi&theme=tokyonight" alt="WakaTime Stats" />
+          <img style="border-radius:10px;" src="https://github-readme-stats-alpha-six-52.vercel.app/api/wakatime?username=brotatoboi&theme=tokyonight" alt="WakaTime Stats" />
         </a>
       </td>
       <td style="width:300px; text-align:left;" valign="top">
