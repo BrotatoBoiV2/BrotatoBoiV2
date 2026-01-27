@@ -22,7 +22,7 @@
         <h3>About Me</h3>
         Hello! I’m BrotatoBoi — a Computer Scientist who loves open-source software and experimenting with new ideas. <br> 
         I enjoy cybersecurity and tech exploration. <br> 
-        Many of my project names are potato-themed 🥔 — because potatoes are versatile. <br> <br>
+        Many of my project names are potato-themed 🥔 — because potatos are versatile. <br> <br>
         Join me on this adventure of open-source, privacy-conscious technology!
       </td>
     </tr>
